@@ -1,0 +1,16 @@
+What happens when you initialize a repository? Why do you need to do it?
+	
+	It gets tied to the directory of your git init. 
+	This way the files in that directory will be inside the git repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	
+	The staging area contains files that are being prepared to be
+	committed. The	repository contains files from the directory that 		have been committed. And the directory contains files that are tied to 		the repository and can be contained in it.
+
+How can you use the staging area to make sure you have one commit per logical change?
+	
+	The staging area is a sort of 'waitroom' for changes to either be
+	committed separately or to wait for a logical group to gather and
+	than be committed together.
+	
