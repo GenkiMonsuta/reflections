@@ -13,4 +13,13 @@ How can you use the staging area to make sure you have one commit per logical ch
 	The staging area is a sort of 'waitroom' for changes to either be
 	committed separately or to wait for a logical group to gather and
 	than be committed together.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	When you are making changes you are not yet committed too; when you are making changes for different
+	versions of your program; .. 
+	Branches help to make sure you don't clutter up your history. You can make changes and experiment
+	without having to go digging deep into your history in order to find the previous version
+	or just a different version.
+
 	
