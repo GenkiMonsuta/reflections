@@ -13,3 +13,6 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or Github? What would be easier, and what would be harder?
 	Direct sharing of code. Github alternatives. 
 	It would be hard to merge and collaborate in general, though if it was a tiny project or one with well defined areas of code that need little or no tampering with it would also be more direct to just share directly. 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	Changes that require feedback or are simply experimental. It allows for a 'trial run' of some code without messing with the master.
